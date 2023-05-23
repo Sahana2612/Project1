@@ -1,0 +1,41 @@
+.zilla-home-card{
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-between;
+
+}
+
+.zilla-card{
+    padding: 20px;
+    text-align: left;
+}
+
+.btn3{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #6941C6;
+    background: none;
+    border: none;
+}
+
+.card-heading{
+    padding-top: 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    color: #1D2939;
+
+}
+
+.card-paragraph{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #475467;
+}

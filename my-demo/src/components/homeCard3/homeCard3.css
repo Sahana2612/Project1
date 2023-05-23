@@ -1,0 +1,24 @@
+.card-heading1{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #7F56D9;
+}
+.card-paragraph1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    color: #1D2939;
+}
+
+.zilla-home-card1{
+    padding: 20px;
+    text-align: center;
+}
+.zilla-card1{
+    padding: 20px;
+}

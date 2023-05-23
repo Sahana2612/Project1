@@ -1,0 +1,24 @@
+.banner-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #1D2939;
+    margin-top: 150px;
+}
+
+.banner-para{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #475467;
+}
+
+.banner-photo{
+    margin-top: 50px;
+    width: 100%;
+}
+.bagd{
+    margin-top: -14px;
+}

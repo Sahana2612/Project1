@@ -1,0 +1,35 @@
+.our-bg{
+    background-color: #F9F5FF           ;
+    margin-top: 30px;
+}
+
+.card-heading1{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #7F56D9;
+    padding-top: 57px;
+}
+.card-paragraph1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    color: #1D2939;
+}
+
+.list-style-space {
+   padding-top: 10px;
+}
+.modules-pic{
+    background: #FFFFFF;
+}
+
+ul{
+    list-style-type:symbols();
+    line-height: 40px;
+}
+

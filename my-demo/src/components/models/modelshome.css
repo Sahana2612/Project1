@@ -1,0 +1,25 @@
+.model-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 10px;
+    width: 200px;
+    height: 35px;
+    background: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #6941C6;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.model-buttons:hover{
+    background: #6941C6;
+    color: #F9F5FF; 
+}
